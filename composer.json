@@ -1,12 +1,11 @@
 {
-  "name": "andrewnovikof/omnipay-sberbank",
+  "name": "ushakovme/omnipay-sberbank",
   "description": "Omnipay driver for Sberbank",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "AndrewNovikof",
-      "email": "andrewnovikofff@gmail.com"
+      "name": "UshakovMe"
     }
   ],
   "keywords": [

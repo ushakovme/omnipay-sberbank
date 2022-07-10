@@ -1,11 +1,8 @@
-# Sberbank acquiring for PHP 
-
-[![Build Status](https://travis-ci.org/AndrewNovikof/omnipay-sberbank.svg?branch=master)](https://travis-ci.org/AndrewNovikof/omnipay-sberbank)
-[![Latest Stable Version](https://poser.pugx.org/andrewnovikof/omnipay-sberbank/v/stable)](https://packagist.org/packages/andrewnovikof/omnipay-sberbank)
-[![Total Downloads](https://poser.pugx.org/andrewnovikof/omnipay-sberbank/downloads)](https://packagist.org/packages/andrewnovikof/omnipay-sberbank)
-[![License](https://poser.pugx.org/andrewnovikof/omnipay-sberbank/license)](https://packagist.org/packages/andrewnovikof/omnipay-sberbank)
+# Sberbank acquiring for PHP 8
 
 # Introduction
+
+This is fork for [AndrewNovikof/omnipay-sberbank](https://github.com/AndrewNovikof/omnipay-sberbank) with php8 support
 
 This library implements the work with [Sberbank acquiring api](https://developer.sberbank.ru/doc/v1/acquiring/rest-requests-about) via [theleague Omnipay](https://omnipay.thephpleague.com/) processing library for PHP. It has a clear and consistent API, is fully unit tested.
 
@@ -17,7 +14,7 @@ This package supports PHP 7.1 and higher
 
 ```
 // This assumes that you have composer installed globally
-composer require andrewnovikof/omnipay-sberbank
+composer require ushakovme/omnipay-sberbank
 ```
 
 ## Solving problems with minimal stability
